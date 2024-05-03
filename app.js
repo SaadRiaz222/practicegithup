@@ -1,4 +1,4 @@
 var a,b;
 a=7 ,b=10;
 var res=a+b;
-console()
+console() jkjf dkfj k
